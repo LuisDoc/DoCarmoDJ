@@ -10,8 +10,8 @@
 
 <body class="bg-gray-900">
     <!-- Navigationsleiste -->
-    <a href="#">
-        <img class="fixed left-10 top-2 w-28 h-14 bg-gray-800 rounded-xl mx-10 hover:w-32 hover:h-16"
+    <a class="" href="#">
+        <img class="fixed left-1 top-3 w-28 h-14 mx-10 bg-gray-800 rounded-xl hover:w-32 hover:h-16 hover:left-0 hover:top-2 hover:bg-gray-900"
             src="{{ asset('images/DoCarmoW_Transparent.png') }}" alt=" DoCarmoDJ">
     </a>
 

@@ -454,6 +454,24 @@ Ensure the default browser behavior of the `hidden` attribute.
 .top-0 {
   top: 0px;
 }
+.left-6 {
+  left: 1.5rem;
+}
+.left-4 {
+  left: 1rem;
+}
+.left-2 {
+  left: 0.5rem;
+}
+.left-0 {
+  left: 0px;
+}
+.left-1 {
+  left: 0.25rem;
+}
+.top-4 {
+  top: 1rem;
+}
 .my-2 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
@@ -529,6 +547,30 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.hover\:left-8:hover {
+  left: 2rem;
+}
+.hover\:top-1:hover {
+  top: 0.25rem;
+}
+.-left-1 {
+  left: -0.25rem;
+}
+.-top-1 {
+  top: -0.25rem;
+}
+.hover\:left-1:hover {
+  left: 0.25rem;
+}
+.hover\:left-0:hover {
+  left: 0px;
+}
+.hover\:top-0:hover {
+  top: 0px;
+}
+.hover\:top-2:hover {
+  top: 0.5rem;
 }
 .hover\:h-16:hover {
   height: 4rem;
